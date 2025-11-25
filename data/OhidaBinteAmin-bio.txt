@@ -1,0 +1,2 @@
+Ohida Binte Amin is a Ph.D. candidate in Personal Health Informatics at Northeastern University, jointly between Computer and Health Sciences.
+Her research combines machine learning, human–computer interaction, and digital phenotyping to study stress, depression, and sleep using wearable and smartphone data, with the goal of developing personalized, data-driven health interventions.
